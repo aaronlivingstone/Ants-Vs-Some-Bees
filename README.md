@@ -1,8 +1,6 @@
 Ants-Vs-Some-Bees
 =================
-<span align="center">
 ![alt tag](https://raw.github.com/aaron-feldman/Ants-Vs-Some-Bees/master/example_image.png)
-</span>
 
 This project was completed as course work for CS 61A at the University of California, Berkeley.
 
